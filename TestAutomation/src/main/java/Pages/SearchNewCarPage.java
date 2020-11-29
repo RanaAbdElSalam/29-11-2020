@@ -47,7 +47,6 @@ public class SearchNewCarPage {
 		
 		driver.manage().timeouts().setScriptTimeout(20, TimeUnit.SECONDS);	
 		
-//		JavascriptExecutor js = (JavascriptExecutor) driver;
 		js.executeScript("window.scrollBy(0,200)");
 		
 		String carInstallment = driver.findElement(By.linkText("6,942 ج.م./شهر")).getText();

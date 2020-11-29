@@ -4,8 +4,10 @@
 <suite name="Test Suite">
 	
 	<test name="Test" preserve-order="true">
+	
 		<classes>
 			
+			<class name="TestCases.SearchNewCarTest" />
 			<class name="TestCases.AddingAdTest" />
 			
 		</classes>

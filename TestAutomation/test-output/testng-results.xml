@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Test Suite" duration-ms="125710" started-at="2020-11-29T01:14:51Z" finished-at="2020-11-29T01:16:57Z">
+  <suite name="Test Suite" duration-ms="432705" started-at="2020-11-29T10:29:16Z" finished-at="2020-11-29T10:36:29Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="125710" started-at="2020-11-29T01:14:51Z" finished-at="2020-11-29T01:16:57Z">
+    <test name="Test" duration-ms="432705" started-at="2020-11-29T10:29:16Z" finished-at="2020-11-29T10:36:29Z">
       <class name="TestCases.AddingAdTest">
-        <test-method status="PASS" signature="AddingNewAdTest()[pri:0, instance:TestCases.AddingAdTest@618b19ad]" name="AddingNewAdTest" duration-ms="124104" started-at="2020-11-29T01:14:51Z" finished-at="2020-11-29T01:16:55Z">
+        <test-method status="PASS" signature="AddingNewAdTest()[pri:0, instance:TestCases.AddingAdTest@30c15d8b]" name="AddingNewAdTest" duration-ms="206088" started-at="2020-11-29T10:33:02Z" finished-at="2020-11-29T10:36:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddingNewAdTest -->
       </class> <!-- TestCases.AddingAdTest -->
+      <class name="TestCases.SearchNewCarTest">
+        <test-method status="PASS" signature="SearchTest()[pri:0, instance:TestCases.SearchNewCarTest@2d3379b4]" name="SearchTest" duration-ms="222643" started-at="2020-11-29T10:29:16Z" finished-at="2020-11-29T10:32:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+      </class> <!-- TestCases.SearchNewCarTest -->
     </test> <!-- Test -->
   </suite> <!-- Test Suite -->
 </testng-results>
