@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "f440334a-2e25-43a1-bb0f-5604dde9e3f2",
+		"name": "Contact Cars API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "getCategoryTreeAPI",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
